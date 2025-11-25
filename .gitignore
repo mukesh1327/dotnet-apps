@@ -1,0 +1,7 @@
+.vscode
+./*.sln
+obj/
+bin/
+*.user
+global.json
+*.log
